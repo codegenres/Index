@@ -1,6 +1,9 @@
 # Index
 * [Code Genres] (https://github.com/codegenres/codegenres)
 * [System] (https://github.com/codegenres/System)
+* [ExperimentalNovel] (https://github.com/codegenres/ExperimentalNovel)
+* [ArtOperations] (https://github.com/codegenres/ArtOperations)
+* [ArtOperationsEcosystem] (https://github.com/codegenres/ArtOperationsEcosystem)
 * [DiscursiveStructures] (https://github.com/codegenres/DiscursiveStructures)
 * [Articulatio] (https://github.com/codegenres/Articulatio)
 * [CultureMobile] (https://github.com/codegenres/CultureMobile)
